@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "data (things)",
+        "2": "technical"
+    },
+    "data_tracked": false,
+    "description": "The Helo Text Formatter plugin takes any input text and converts it to uppercase instantly. \nIt runs on the client side for fast performance and is useful for formatting user-generated content.",
+    "image": "//meta-q.cdn.bubble.io/f1742139062314x365837854523574100/5E5941E9.jpeg",
+    "license": "open_source",
+    "name": "Helo Text Formatter",
+    "plugin_instructions": "1️⃣ Add this plugin to your Bubble app.  \n2️⃣ Use the \"Format text to uppercase\" action in a workflow.  \n3️⃣ Pass any text input and get the uppercase result instantly.  \n4️⃣ Display the result using a Text element.  "
+}

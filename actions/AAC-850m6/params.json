@@ -1,0 +1,21 @@
+{
+    "category": "data (things)",
+    "display": "Format text to uppercase",
+    "fields": {
+        "AAD": {
+            "caption": "text input",
+            "editor": "StaticText",
+            "long_text": false,
+            "name": "text_input",
+            "optional": true,
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "formatted text",
+            "editor": "StaticText",
+            "name": "formatted_text",
+            "rank": 1
+        }
+    },
+    "type": "client_side"
+}
